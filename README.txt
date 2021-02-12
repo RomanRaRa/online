@@ -1,4 +1,4 @@
-// "Hello!" - Roman Sokolov 
+
 
 
 TITLE: 
